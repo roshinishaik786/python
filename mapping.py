@@ -1,0 +1,9 @@
+Student={178:"bhargavi",166:"roshini",133:"anusha",134:"prasanna",143:"bhanu"}
+print(Student)
+print(type(Student))
+print("----------------------------")
+print(Student[178])
+print(Student[166])
+print(Student[133])
+print(Student[134])
+print(Student[143])
